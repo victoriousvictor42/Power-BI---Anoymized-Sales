@@ -1,8 +1,8 @@
 # Power-BI - Anoymized-Sales
+## Description
 #### creating visualisations and dashboards using Power BI for anonymized sales, 29/1/2025
 #### By **Victor Mwenda**
-## Description
-we are making models to see ow well they can predict traffic signs on the road
+
 ## Setup/Installation Requirements
 * Download the Power Bi file
 * right click to open the file
